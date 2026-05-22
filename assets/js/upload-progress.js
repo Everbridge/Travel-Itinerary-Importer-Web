@@ -1,0 +1,1 @@
+!function(){"use strict";window.TravelItineraryImporter=window.TravelItineraryImporter||{},window.TravelItineraryImporter.uploadProgress={batchSize:3,statuses:["Draft","Blocked","Queued","Uploading","Uploaded","Updated","Failed","Timed out/Unknown","Skipped"]}}();
