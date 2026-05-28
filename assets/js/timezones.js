@@ -1,1 +1,1 @@
-!function(){"use strict";window.TravelItineraryImporter=window.TravelItineraryImporter||{},window.TravelItineraryImporter.timezones={supported:[]}}();
+!function(){"use strict";window.TravelItineraryImporterNext=window.TravelItineraryImporterNext||{},window.TravelItineraryImporterNext.timezones={supported:[]}}();
